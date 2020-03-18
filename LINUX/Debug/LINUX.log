@@ -1,0 +1,78 @@
+﻿  dblock.cpp
+d:\work\school\大三\os\os课程设计\my\linux\linux\linux\dblock.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\work\school\大三\os\os课程设计\my\linux\linux\linux\dblock.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\work\school\大三\os\os课程设计\my\linux\linux\linux\sblock.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\work\school\大三\os\os课程设计\my\linux\linux\linux\inode.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\work\school\大三\os\os课程设计\my\linux\linux\linux\user.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\work\school\大三\os\os课程设计\my\linux\linux\linux\file.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\work\school\大三\os\os课程设计\my\linux\linux\linux\dblock.cpp(32): error C2059: 语法错误:“else”
+d:\work\school\大三\os\os课程设计\my\linux\linux\linux\dblock.cpp(32): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+d:\work\school\大三\os\os课程设计\my\linux\linux\linux\dblock.cpp(32): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+d:\work\school\大三\os\os课程设计\my\linux\linux\linux\dblock.cpp(42): error C2065: “fp”: 未声明的标识符
+d:\work\school\大三\os\os课程设计\my\linux\linux\linux\dblock.cpp(42): error C2065: “superblock”: 未声明的标识符
+d:\work\school\大三\os\os课程设计\my\linux\linux\linux\dblock.cpp(42): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\work\school\大三\os\os课程设计\my\linux\linux\linux\dblock.cpp(42): error C2365: “W_Sblock”: 重定义；以前的定义是“函数”
+  d:\work\school\大三\os\os课程设计\my\linux\linux\linux\sblock.h(13): note: 参见“W_Sblock”的声明
+d:\work\school\大三\os\os课程设计\my\linux\linux\linux\dblock.cpp(44): error C2059: 语法错误:“return”
+d:\work\school\大三\os\os课程设计\my\linux\linux\linux\dblock.cpp(45): error C2059: 语法错误:“}”
+d:\work\school\大三\os\os课程设计\my\linux\linux\linux\dblock.cpp(45): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+d:\work\school\大三\os\os课程设计\my\linux\linux\linux\dblock.cpp(46): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+d:\work\school\大三\os\os课程设计\my\linux\linux\linux\dblock.cpp(46): error C2059: 语法错误:“}”
+d:\work\school\大三\os\os课程设计\my\linux\linux\linux\dblock.cpp(49): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+d:\work\school\大三\os\os课程设计\my\linux\linux\linux\dblock.cpp(49): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+d:\work\school\大三\os\os课程设计\my\linux\linux\linux\dblock.cpp(69): error C2065: “fp”: 未声明的标识符
+d:\work\school\大三\os\os课程设计\my\linux\linux\linux\dblock.cpp(69): error C2065: “superblock”: 未声明的标识符
+d:\work\school\大三\os\os课程设计\my\linux\linux\linux\dblock.cpp(69): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\work\school\大三\os\os课程设计\my\linux\linux\linux\dblock.cpp(69): error C2365: “W_Sblock”: 重定义；以前的定义是“函数”
+  d:\work\school\大三\os\os课程设计\my\linux\linux\linux\sblock.h(13): note: 参见“W_Sblock”的声明
+d:\work\school\大三\os\os课程设计\my\linux\linux\linux\dblock.cpp(70): error C2059: 语法错误:“}”
+d:\work\school\大三\os\os课程设计\my\linux\linux\linux\dblock.cpp(70): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+  file.cpp
+d:\work\school\大三\os\os课程设计\my\linux\linux\linux\file.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\work\school\大三\os\os课程设计\my\linux\linux\linux\file.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\work\school\大三\os\os课程设计\my\linux\linux\linux\sblock.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\work\school\大三\os\os课程设计\my\linux\linux\linux\inode.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\work\school\大三\os\os课程设计\my\linux\linux\linux\user.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\work\school\大三\os\os课程设计\my\linux\linux\linux\dblock.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\work\school\大三\os\os课程设计\my\linux\linux\linux\file.cpp(89): warning C4474: printf: 格式字符串中传递的参数太多
+  d:\work\school\大三\os\os课程设计\my\linux\linux\linux\file.cpp(89): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+d:\work\school\大三\os\os课程设计\my\linux\linux\linux\file.cpp(131): warning C4101: “i”: 未引用的局部变量
+  inode.cpp
+d:\work\school\大三\os\os课程设计\my\linux\linux\linux\inode.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\work\school\大三\os\os课程设计\my\linux\linux\linux\inode.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\work\school\大三\os\os课程设计\my\linux\linux\linux\user.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\work\school\大三\os\os课程设计\my\linux\linux\linux\file.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\work\school\大三\os\os课程设计\my\linux\linux\linux\sblock.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\work\school\大三\os\os课程设计\my\linux\linux\linux\dblock.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  main.cpp
+d:\work\school\大三\os\os课程设计\my\linux\linux\linux\main.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\work\school\大三\os\os课程设计\my\linux\linux\linux\user.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\work\school\大三\os\os课程设计\my\linux\linux\linux\file.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\work\school\大三\os\os课程设计\my\linux\linux\linux\inode.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\work\school\大三\os\os课程设计\my\linux\linux\linux\sblock.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\work\school\大三\os\os课程设计\my\linux\linux\linux\main.cpp(26): error C2001: 常量中有换行符
+d:\work\school\大三\os\os课程设计\my\linux\linux\linux\main.cpp(27): error C2146: 语法错误: 缺少“;”(在标识符“string”的前面)
+d:\work\school\大三\os\os课程设计\my\linux\linux\linux\main.cpp(103): warning C4474: printf: 格式字符串中传递的参数太多
+  d:\work\school\大三\os\os课程设计\my\linux\linux\linux\main.cpp(103): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+d:\work\school\大三\os\os课程设计\my\linux\linux\linux\main.cpp(351): warning C4476: "printf": 格式说明符中的类型字段字符“\xe5”未知
+d:\work\school\大三\os\os课程设计\my\linux\linux\linux\main.cpp(351): warning C4474: printf: 格式字符串中传递的参数太多
+  d:\work\school\大三\os\os课程设计\my\linux\linux\linux\main.cpp(351): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+d:\work\school\大三\os\os课程设计\my\linux\linux\linux\main.cpp(421): warning C4474: printf: 格式字符串中传递的参数太多
+  d:\work\school\大三\os\os课程设计\my\linux\linux\linux\main.cpp(421): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+d:\work\school\大三\os\os课程设计\my\linux\linux\linux\main.cpp(589): error C2001: 常量中有换行符
+d:\work\school\大三\os\os课程设计\my\linux\linux\linux\main.cpp(590): error C2144: 语法错误:“char”的前面应有“;”
+  sblock.cpp
+d:\work\school\大三\os\os课程设计\my\linux\linux\linux\sblock.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\work\school\大三\os\os课程设计\my\linux\linux\linux\sblock.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\work\school\大三\os\os课程设计\my\linux\linux\linux\inode.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\work\school\大三\os\os课程设计\my\linux\linux\linux\user.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\work\school\大三\os\os课程设计\my\linux\linux\linux\file.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\work\school\大三\os\os课程设计\my\linux\linux\linux\dblock.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  user.cpp
+d:\work\school\大三\os\os课程设计\my\linux\linux\linux\user.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\work\school\大三\os\os课程设计\my\linux\linux\linux\user.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\work\school\大三\os\os课程设计\my\linux\linux\linux\file.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\work\school\大三\os\os课程设计\my\linux\linux\linux\inode.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\work\school\大三\os\os课程设计\my\linux\linux\linux\user.cpp(37): warning C4474: printf: 格式字符串中传递的参数太多
+  d:\work\school\大三\os\os课程设计\my\linux\linux\linux\user.cpp(37): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+  正在生成代码...
